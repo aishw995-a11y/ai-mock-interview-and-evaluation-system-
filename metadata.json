@@ -1,0 +1,6 @@
+{
+  "name": "AI Mock Interview and Evaluation System",
+  "description": "Enterprise-grade AI-powered mock interview practice, voice and text simulations, real-time evaluation reports, and personalized performance analytics for students and job seekers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
